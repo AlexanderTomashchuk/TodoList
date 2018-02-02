@@ -1,0 +1,1 @@
+sudo docker cp $1:/var/opt/mssql/log/errorlog docker-errorlog
